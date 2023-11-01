@@ -1,0 +1,104 @@
++--------------+----------------------------------------------------+----------------------------------------------------+---------------+---------------------+
+|  total_sum   |                     i_category                     |                      i_class                       | lochierarchy  | rank_within_parent  |
++--------------+----------------------------------------------------+----------------------------------------------------+---------------+---------------------+
+| 23222216.74  | NULL                                               | NULL                                               | 2             | 1                   |
+| 2539087.01   | Books                                              | NULL                                               | 1             | 1                   |
+| 2465476.98   | Women                                              | NULL                                               | 1             | 2                   |
+| 2404760.63   | Home                                               | NULL                                               | 1             | 3                   |
+| 2368141.08   | Jewelry                                            | NULL                                               | 1             | 4                   |
+| 2325068.38   | Electronics                                        | NULL                                               | 1             | 5                   |
+| 2303403.58   | Sports                                             | NULL                                               | 1             | 6                   |
+| 2300885.03   | Men                                                | NULL                                               | 1             | 7                   |
+| 2263501.10   | Shoes                                              | NULL                                               | 1             | 8                   |
+| 2232175.56   | Music                                              | NULL                                               | 1             | 9                   |
+| 1956077.51   | Children                                           | NULL                                               | 1             | 10                  |
+| 63639.88     |                                                    | NULL                                               | 1             | 11                  |
+| 26026.54     |                                                    |                                                    | 0             | 1                   |
+| 11587.14     |                                                    | dresses                                            | 0             | 2                   |
+| 9903.26      |                                                    | glassware                                          | 0             | 3                   |
+| 5035.75      |                                                    | swimwear                                           | 0             | 4                   |
+| 4380.12      |                                                    | archery                                            | 0             | 5                   |
+| 3482.10      |                                                    | womens                                             | 0             | 6                   |
+| 1422.67      |                                                    | outdoor                                            | 0             | 7                   |
+| 918.54       |                                                    | tennis                                             | 0             | 8                   |
+| 467.87       |                                                    | scanners                                           | 0             | 9                   |
+| 261.45       |                                                    | semi-precious                                      | 0             | 10                  |
+| 154.44       |                                                    | sports-apparel                                     | 0             | 11                  |
+| 246125.98    | Books                                              | fiction                                            | 0             | 1                   |
+| 213847.73    | Books                                              | reference                                          | 0             | 2                   |
+| 212833.87    | Books                                              | computers                                          | 0             | 3                   |
+| 207554.86    | Books                                              | history                                            | 0             | 4                   |
+| 191625.46    | Books                                              | romance                                            | 0             | 5                   |
+| 165244.05    | Books                                              | science                                            | 0             | 6                   |
+| 151745.90    | Books                                              | entertainments                                     | 0             | 7                   |
+| 148077.66    | Books                                              | travel                                             | 0             | 8                   |
+| 142845.90    | Books                                              | business                                           | 0             | 9                   |
+| 132422.72    | Books                                              | home repair                                        | 0             | 10                  |
+| 129672.39    | Books                                              | self-help                                          | 0             | 11                  |
+| 129077.08    | Books                                              | sports                                             | 0             | 12                  |
+| 125034.28    | Books                                              | cooking                                            | 0             | 13                  |
+| 121430.32    | Books                                              | parenting                                          | 0             | 14                  |
+| 118211.30    | Books                                              | mystery                                            | 0             | 15                  |
+| 102952.57    | Books                                              | arts                                               | 0             | 16                  |
+| 384.94       | Books                                              |                                                    | 0             | 17                  |
+| 517906.41    | Children                                           | school-uniforms                                    | 0             | 1                   |
+| 512165.78    | Children                                           | infants                                            | 0             | 2                   |
+| 476643.37    | Children                                           | newborn                                            | 0             | 3                   |
+| 448743.57    | Children                                           | toddlers                                           | 0             | 4                   |
+| 618.38       | Children                                           |                                                    | 0             | 5                   |
+| 233478.00    | Electronics                                        | memory                                             | 0             | 1                   |
+| 189458.15    | Electronics                                        | scanners                                           | 0             | 2                   |
+| 187894.21    | Electronics                                        | stereo                                             | 0             | 3                   |
+| 183017.96    | Electronics                                        | televisions                                        | 0             | 4                   |
+| 177968.71    | Electronics                                        | dvd/vcr players                                    | 0             | 5                   |
+| 173462.94    | Electronics                                        | karoke                                             | 0             | 6                   |
+| 150730.92    | Electronics                                        | personal                                           | 0             | 7                   |
+| 145402.20    | Electronics                                        | disk drives                                        | 0             | 8                   |
+| 131083.74    | Electronics                                        | musical                                            | 0             | 9                   |
+| 123756.44    | Electronics                                        | audio                                              | 0             | 10                  |
+| 117669.90    | Electronics                                        | cameras                                            | 0             | 11                  |
+| 112615.10    | Electronics                                        | wireless                                           | 0             | 12                  |
+| 105747.30    | Electronics                                        | monitors                                           | 0             | 13                  |
+| 103721.71    | Electronics                                        | automotive                                         | 0             | 14                  |
+| 100799.42    | Electronics                                        | camcorders                                         | 0             | 15                  |
+| 88261.68     | Electronics                                        | portable                                           | 0             | 16                  |
+| 226017.63    | Home                                               | bedding                                            | 0             | 1                   |
+| 194320.31    | Home                                               | kids                                               | 0             | 2                   |
+| 177680.85    | Home                                               | curtains/drapes                                    | 0             | 3                   |
+| 177613.56    | Home                                               | paint                                              | 0             | 4                   |
+| 174535.95    | Home                                               | tables                                             | 0             | 5                   |
+| 168138.61    | Home                                               | bathroom                                           | 0             | 6                   |
+| 154733.18    | Home                                               | lighting                                           | 0             | 7                   |
+| 148875.28    | Home                                               | blinds/shades                                      | 0             | 8                   |
+| 137354.89    | Home                                               | glassware                                          | 0             | 9                   |
+| 136537.73    | Home                                               | flatware                                           | 0             | 10                  |
+| 129826.84    | Home                                               | mattresses                                         | 0             | 11                  |
+| 126786.82    | Home                                               | wallpaper                                          | 0             | 12                  |
+| 123648.28    | Home                                               | decor                                              | 0             | 13                  |
+| 123521.07    | Home                                               | furniture                                          | 0             | 14                  |
+| 93899.26     | Home                                               | accent                                             | 0             | 15                  |
+| 79141.71     | Home                                               | rugs                                               | 0             | 16                  |
+| 32128.66     | Home                                               |                                                    | 0             | 17                  |
+| 214608.14    | Jewelry                                            | jewelry boxes                                      | 0             | 1                   |
+| 187242.61    | Jewelry                                            | pendants                                           | 0             | 2                   |
+| 185838.85    | Jewelry                                            | custom                                             | 0             | 3                   |
+| 185180.24    | Jewelry                                            | costume                                            | 0             | 4                   |
+| 169289.92    | Jewelry                                            | gold                                               | 0             | 5                   |
+| 168837.92    | Jewelry                                            | rings                                              | 0             | 6                   |
+| 165817.94    | Jewelry                                            | loose stones                                       | 0             | 7                   |
+| 147056.32    | Jewelry                                            | earings                                            | 0             | 8                   |
+| 141824.96    | Jewelry                                            | estate                                             | 0             | 9                   |
+| 139305.17    | Jewelry                                            | semi-precious                                      | 0             | 10                  |
+| 135971.81    | Jewelry                                            | diamonds                                           | 0             | 11                  |
+| 132108.51    | Jewelry                                            | bracelets                                          | 0             | 12                  |
+| 124036.95    | Jewelry                                            | womens watch                                       | 0             | 13                  |
+| 104493.23    | Jewelry                                            | mens watch                                         | 0             | 14                  |
+| 102003.97    | Jewelry                                            | birdal                                             | 0             | 15                  |
+| 57061.61     | Jewelry                                            | consignment                                        | 0             | 16                  |
+| 7462.93      | Jewelry                                            |                                                    | 0             | 17                  |
+| 656258.92    | Men                                                | shirts                                             | 0             | 1                   |
+| 571356.03    | Men                                                | sports-apparel                                     | 0             | 2                   |
+| 541592.29    | Men                                                | accessories                                        | 0             | 3                   |
+| 531677.79    | Men                                                | pants                                              | 0             | 4                   |
+| 653469.18    | Music                                              | classical                                          | 0             | 1                   |
++--------------+----------------------------------------------------+----------------------------------------------------+---------------+---------------------+

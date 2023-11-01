@@ -1,0 +1,62 @@
++------------+-----------+----------------------------------------------------+----------+
+| dt.d_year  | brand_id  |                       brand                        | sum_agg  |
++------------+-----------+----------------------------------------------------+----------+
+| 1998       | 4002002   | importoedu pack #2                                 | 690.83   |
+| 1998       | 1001002   | amalgamalg #2                                      | 621.55   |
+| 1998       | 6009005   | maxicorp #5                                        | 610.24   |
+| 1998       | 9004002   | edu packmaxi #2                                    | 480.06   |
+| 1998       | 1002001   | importoamalg #1                                    | 407.74   |
+| 1998       | 10001016  | amalgunivamalg #16                                 | 389.26   |
+| 1998       | 5004001   | edu packscholar #1                                 | 350.45   |
+| 1998       | 1003002   | exportiamalg #2                                    | 329.70   |
+| 1998       | 4002001   | importoedu pack #1                                 | 230.03   |
+| 1998       | 5003001   | exportischolar #1                                  | 215.57   |
+| 1998       | 1003001   | exportiamalg #1                                    | 187.36   |
+| 1998       | 10004001  | edu packunivamalg #1                               | 168.89   |
+| 1998       | 9013005   | exportiunivamalg #5                                | 148.06   |
+| 1999       | 6009005   | maxicorp #5                                        | 668.94   |
+| 1999       | 1002001   | importoamalg #1                                    | 600.42   |
+| 1999       | 1003002   | exportiamalg #2                                    | 542.40   |
+| 1999       | 9013005   | exportiunivamalg #5                                | 470.96   |
+| 1999       | 4002001   | importoedu pack #1                                 | 396.59   |
+| 1999       | 1001002   | amalgamalg #2                                      | 388.36   |
+| 1999       | 1003001   | exportiamalg #1                                    | 388.07   |
+| 1999       | 4002002   | importoedu pack #2                                 | 385.83   |
+| 1999       | 10001016  | amalgunivamalg #16                                 | 276.48   |
+| 1999       | 10004001  | edu packunivamalg #1                               | 271.84   |
+| 1999       | 9004002   | edu packmaxi #2                                    | 246.66   |
+| 1999       | 5004001   | edu packscholar #1                                 | 228.78   |
+| 1999       | 5003001   | exportischolar #1                                  | 161.27   |
+| 2000       | 1003001   | exportiamalg #1                                    | 515.16   |
+| 2000       | 1002001   | importoamalg #1                                    | 495.24   |
+| 2000       | 1001002   | amalgamalg #2                                      | 432.29   |
+| 2000       | 6005006   | scholarcorp #6                                     | 386.75   |
+| 2000       | 1003002   | exportiamalg #2                                    | 293.05   |
+| 2000       | 9004002   | edu packmaxi #2                                    | 290.38   |
+| 2000       | 4002002   | importoedu pack #2                                 | 270.49   |
+| 2000       | 5003001   | edu packamalg #2                                   | 233.74   |
+| 2000       | 7003010   | exportibrand #10                                   | 211.09   |
+| 2000       | 10004001  | edu packunivamalg #1                               | 118.31   |
+| 2001       | 4002002   | importoedu pack #2                                 | 621.18   |
+| 2001       | 5003001   | edu packamalg #2                                   | 609.88   |
+| 2001       | 10004001  | edu packunivamalg #1                               | 542.35   |
+| 2001       | 8014006   | edu packmaxi #6                                    | 535.86   |
+| 2001       | 1001002   | amalgamalg #2                                      | 502.90   |
+| 2001       | 1002001   | importoedu pack #2                                 | 478.52   |
+| 2001       | 5001001   | edu packamalg #2                                   | 471.63   |
+| 2001       | 7003010   | exportibrand #10                                   | 424.77   |
+| 2001       | 1003002   | exportiamalg #2                                    | 387.85   |
+| 2001       | 6005006   | scholarcorp #6                                     | 322.04   |
+| 2001       | 9004002   | edu packmaxi #2                                    | 159.24   |
+| 2002       | 4002002   | importoedu pack #2                                 | 1145.70  |
+| 2002       | 1002001   | importoedu pack #2                                 | 629.74   |
+| 2002       | 4001002   | importoscholar #1                                  | 626.84   |
+| 2002       | 1001002   | amalgamalg #2                                      | 415.47   |
+| 2002       | 8002007   | importonameless #7                                 | 411.53   |
+| 2002       | 9004002   | edu packmaxi #2                                    | 356.93   |
+| 2002       | 5001001   | edu packamalg #2                                   | 328.95   |
+| 2002       | 7003010   | edu packexporti #1                                 | 290.51   |
+| 2002       | 8014006   | edu packmaxi #6                                    | 214.54   |
+| 2002       | 10004001  | edu packunivamalg #1                               | 158.48   |
+| 2002       | 1003002   | exportiamalg #2                                    | 155.82   |
++------------+-----------+----------------------------------------------------+----------+

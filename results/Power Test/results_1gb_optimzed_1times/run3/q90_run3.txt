@@ -1,0 +1,104 @@
++-------------------+----------------+-----------+-------------------+-------------+-------------+---------------+-------------+---------------+--------------+-----------+
+|     i_item_id     |   ca_country   | ca_state  |     ca_county     |    agg1     |    agg2     |     agg3      |    agg4     |     agg5      |     agg6     |   agg7    |
++-------------------+----------------+-----------+-------------------+-------------+-------------+---------------+-------------+---------------+--------------+-----------+
+| AAAAAAAAAHDDAAAA  |                | SC        |                   | 60.000000   | 131.270000  | 0.000000      | 86.630000   | 985.800000    | 1960.000000  | 2.000000  |
+| AAAAAAAAAHEAAAAA  |                | SC        |                   | 11.000000   | 136.750000  | 28.880000     | 43.760000   | -442.920000   | 1960.000000  | 2.000000  |
+| AAAAAAAACNLAAAAA  |                | SC        |                   | 76.000000   | 68.150000   | 0.000000      | 51.110000   | 1770.040000   | 1960.000000  | 2.000000  |
+| AAAAAAAAGABDAAAA  |                | SC        |                   | 66.000000   | 97.820000   | 0.000000      | 63.580000   | 528.000000    | 1960.000000  | 2.000000  |
+| AAAAAAAAGKCCAAAA  |                | SC        |                   | 81.000000   | 40.860000   | 582.260000    | 13.070000   | -1806.170000  | 1960.000000  | 2.000000  |
+| AAAAAAAAIMHBAAAA  |                | SC        |                   | 32.000000   | 63.680000   | 0.000000      | 7.640000    | -633.920000   | 1960.000000  | 2.000000  |
+| AAAAAAAAKKGDAAAA  |                | SC        |                   | 10.000000   | 164.040000  | 0.000000      | 39.360000   | -577.100000   | 1960.000000  | 2.000000  |
+| AAAAAAAAMMBEAAAA  |                | SC        |                   | 70.000000   | 180.020000  | 0.000000      | 126.010000  | 2613.100000   | 1960.000000  | 2.000000  |
+| AAAAAAAAPPPBAAAA  |                | SC        |                   | 33.000000   | 80.670000   | 0.000000      | 50.010000   | 722.700000    | 1960.000000  | 2.000000  |
+| AAAAAAAAAHDDAAAA  |                | SC        | NULL              | 60.000000   | 131.270000  | 0.000000      | 86.630000   | 985.800000    | 1960.000000  | 2.000000  |
+| AAAAAAAAAHEAAAAA  |                | SC        | NULL              | 11.000000   | 136.750000  | 28.880000     | 43.760000   | -442.920000   | 1960.000000  | 2.000000  |
+| AAAAAAAACNLAAAAA  |                | SC        | NULL              | 76.000000   | 68.150000   | 0.000000      | 51.110000   | 1770.040000   | 1960.000000  | 2.000000  |
+| AAAAAAAAGABDAAAA  |                | SC        | NULL              | 66.000000   | 97.820000   | 0.000000      | 63.580000   | 528.000000    | 1960.000000  | 2.000000  |
+| AAAAAAAAGKCCAAAA  |                | SC        | NULL              | 81.000000   | 40.860000   | 582.260000    | 13.070000   | -1806.170000  | 1960.000000  | 2.000000  |
+| AAAAAAAAIMHBAAAA  |                | SC        | NULL              | 32.000000   | 63.680000   | 0.000000      | 7.640000    | -633.920000   | 1960.000000  | 2.000000  |
+| AAAAAAAAKKGDAAAA  |                | SC        | NULL              | 10.000000   | 164.040000  | 0.000000      | 39.360000   | -577.100000   | 1960.000000  | 2.000000  |
+| AAAAAAAAMMBEAAAA  |                | SC        | NULL              | 70.000000   | 180.020000  | 0.000000      | 126.010000  | 2613.100000   | 1960.000000  | 2.000000  |
+| AAAAAAAAPPPBAAAA  |                | SC        | NULL              | 33.000000   | 80.670000   | 0.000000      | 50.010000   | 722.700000    | 1960.000000  | 2.000000  |
+| AAAAAAAAAHDDAAAA  |                | NULL      | NULL              | 60.000000   | 131.270000  | 0.000000      | 86.630000   | 985.800000    | 1960.000000  | 2.000000  |
+| AAAAAAAAAHEAAAAA  |                | NULL      | NULL              | 11.000000   | 136.750000  | 28.880000     | 43.760000   | -442.920000   | 1960.000000  | 2.000000  |
+| AAAAAAAACNLAAAAA  |                | NULL      | NULL              | 76.000000   | 68.150000   | 0.000000      | 51.110000   | 1770.040000   | 1960.000000  | 2.000000  |
+| AAAAAAAAGABDAAAA  |                | NULL      | NULL              | 66.000000   | 97.820000   | 0.000000      | 63.580000   | 528.000000    | 1960.000000  | 2.000000  |
+| AAAAAAAAGKCCAAAA  |                | NULL      | NULL              | 81.000000   | 40.860000   | 582.260000    | 13.070000   | -1806.170000  | 1960.000000  | 2.000000  |
+| AAAAAAAAIMHBAAAA  |                | NULL      | NULL              | 32.000000   | 63.680000   | 0.000000      | 7.640000    | -633.920000   | 1960.000000  | 2.000000  |
+| AAAAAAAAKKGDAAAA  |                | NULL      | NULL              | 10.000000   | 164.040000  | 0.000000      | 39.360000   | -577.100000   | 1960.000000  | 2.000000  |
+| AAAAAAAAMMBEAAAA  |                | NULL      | NULL              | 70.000000   | 180.020000  | 0.000000      | 126.010000  | 2613.100000   | 1960.000000  | 2.000000  |
+| AAAAAAAAPPPBAAAA  |                | NULL      | NULL              | 33.000000   | 80.670000   | 0.000000      | 50.010000   | 722.700000    | 1960.000000  | 2.000000  |
+| AAAAAAAACGJAAAAA  | United States  | IA        | Adams County      | 75.000000   | 90.510000   | 0.000000      | 73.310000   | 1684.500000   | 1977.000000  | 1.000000  |
+| AAAAAAAACHBBAAAA  | United States  | IA        | Adams County      | 83.000000   | 96.450000   | 0.000000      | 28.930000   | -1790.310000  | 1977.000000  | 1.000000  |
+| AAAAAAAAEAEDAAAA  | United States  | IA        | Adams County      | 97.000000   | 40.000000   | 0.000000      | 38.000000   | 2379.410000   | 1977.000000  | 1.000000  |
+| AAAAAAAAHNPCAAAA  | United States  | IA        | Adams County      | 90.000000   | 134.420000  | 10336.030000  | 119.630000  | -5018.830000  | 1977.000000  | 1.000000  |
+| AAAAAAAAIADDAAAA  | United States  | IA        | Adams County      | 6.000000    | 29.920000   | 0.000000      | 13.160000   | -1.920000     | 1977.000000  | 1.000000  |
+| AAAAAAAAIFMDAAAA  | United States  | IA        | Adams County      | 44.000000   | 72.710000   | 0.000000      | 13.080000   | -1273.800000  | 1977.000000  | 1.000000  |
+| AAAAAAAAJKGAAAAA  | United States  | IA        | Adams County      | 4.000000    | 29.650000   | 112.700000    | 28.460000   | -52.060000    | 1977.000000  | 1.000000  |
+| AAAAAAAAKBBCAAAA  | United States  | IA        | Adams County      | 28.000000   | 16.610000   | 0.000000      | 8.130000    | -50.960000    | 1977.000000  | 1.000000  |
+| AAAAAAAAKNCEAAAA  | United States  | IA        | Adams County      | 9.000000    | 12.560000   | 0.000000      | 3.640000    | -63.090000    | 1977.000000  | 1.000000  |
+| AAAAAAAAALNCAAAA  | United States  | IA        | Buchanan County   | 63.000000   | 35.130000   | 0.000000      | 16.150000   | 106.470000    | 1985.000000  | 0.000000  |
+| AAAAAAAACPCEAAAA  | United States  | IA        | Buchanan County   | 1.000000    | 86.950000   | 0.000000      | 43.470000   | -16.500000    | 1985.000000  | 0.000000  |
+| AAAAAAAAIFGAAAAA  | United States  | IA        | Buchanan County   | 95.000000   | 153.470000  | 0.000000      | 119.700000  | 2794.900000   | 1985.000000  | 0.000000  |
+| AAAAAAAAIIKAAAAA  | United States  | IA        | Buchanan County   | 16.000000   | 31.460000   | 0.000000      | 12.890000   | -91.680000    | 1985.000000  | 0.000000  |
+| AAAAAAAAKDGAAAAA  | United States  | IA        | Buchanan County   | 53.000000   | 7.460000    | 0.000000      | 2.380000    | -76.850000    | 1985.000000  | 0.000000  |
+| AAAAAAAALKHDAAAA  | United States  | IA        | Buchanan County   | 59.000000   | 40.460000   | 0.000000      | 3.230000    | -745.760000   | 1985.000000  | 0.000000  |
+| AAAAAAAAOODAAAAA  | United States  | IA        | Buchanan County   | 100.000000  | 16.770000   | 0.000000      | 15.090000   | 827.000000    | 1985.000000  | 0.000000  |
+| AAAAAAAAAFDAAAAA  | United States  | IA        | Butler County     | 44.000000   | 191.150000  | 0.000000      | 45.870000   | -1804.880000  | 1953.000000  | 3.000000  |
+| AAAAAAAAAFIAAAAA  | United States  | IA        | Butler County     | 39.000000   | 14.360000   | 0.000000      | 0.570000    | -220.350000   | 1953.000000  | 3.000000  |
+| AAAAAAAAAKCEAAAA  | United States  | IA        | Butler County     | 9.000000    | 70.880000   | 299.680000    | 57.410000   | -238.660000   | 1953.000000  | 3.000000  |
+| AAAAAAAACIFEAAAA  | United States  | IA        | Butler County     | 21.000000   | 275.830000  | 0.000000      | 66.190000   | -586.950000   | 1953.000000  | 3.000000  |
+| AAAAAAAAHNHBAAAA  | United States  | IA        | Butler County     | 100.000000  | 46.240000   | 0.000000      | 12.020000   | -1271.000000  | 1953.000000  | 3.000000  |
+| AAAAAAAAJCJCAAAA  | United States  | IA        | Butler County     | 64.000000   | 105.680000  | 0.000000      | 89.820000   | 663.040000    | 1953.000000  | 3.000000  |
+| AAAAAAAAMOPCAAAA  | United States  | IA        | Butler County     | 27.000000   | 126.210000  | 1552.800000   | 61.840000   | -1973.730000  | 1953.000000  | 3.000000  |
+| AAAAAAAAPDLCAAAA  | United States  | IA        | Butler County     | 3.000000    | 79.800000   | 2.760000      | 1.590000    | -101.190000   | 1953.000000  | 3.000000  |
+| AAAAAAAABJGAAAAA  | United States  | IA        | Calhoun County    | 17.000000   | 49.100000   | 0.000000      | 0.980000    | -427.380000   | 1926.000000  | 4.000000  |
+| AAAAAAAAMHCCAAAA  | United States  | IA        | Calhoun County    | 6.000000    | 177.250000  | 0.000000      | 51.400000   | -88.440000    | 1926.000000  | 4.000000  |
+| AAAAAAAANKMCAAAA  | United States  | IA        | Calhoun County    | 86.000000   | 140.020000  | 344.340000    | 18.200000   | -5739.980000  | 1926.000000  | 4.000000  |
+| AAAAAAAAOOICAAAA  | United States  | IA        | Calhoun County    | 93.000000   | 294.690000  | 591.920000    | 35.360000   | -6500.210000  | 1926.000000  | 4.000000  |
+| AAAAAAAAPEDDAAAA  | United States  | IA        | Calhoun County    | 79.000000   | 84.320000   | 0.000000      | 0.840000    | -5578.980000  | 1926.000000  | 4.000000  |
+| AAAAAAAAAFPDAAAA  | United States  | IA        | Carroll County    | 68.000000   | 217.620000  | 0.000000      | 171.910000  | 5338.680000   | 1928.000000  | 5.000000  |
+| AAAAAAAAAIKCAAAA  | United States  | IA        | Carroll County    | 66.000000   | 32.780000   | 0.000000      | 16.710000   | -192.720000   | 1928.000000  | 5.000000  |
+| AAAAAAAABIJBAAAA  | United States  | IA        | Carroll County    | 68.000000   | 103.850000  | 0.000000      | 79.960000   | 282.200000    | 1928.000000  | 5.000000  |
+| AAAAAAAADEIBAAAA  | United States  | IA        | Carroll County    | 26.000000   | 33.080000   | 0.000000      | 19.180000   | 171.600000    | 1928.000000  | 5.000000  |
+| AAAAAAAAEDICAAAA  | United States  | IA        | Carroll County    | 64.000000   | 209.430000  | 0.000000      | 115.180000  | 1667.840000   | 1928.000000  | 5.000000  |
+| AAAAAAAAFLLBAAAA  | United States  | IA        | Carroll County    | 5.000000    | 183.560000  | 0.000000      | 31.200000   | -185.200000   | 1928.000000  | 5.000000  |
+| AAAAAAAAGHKCAAAA  | United States  | IA        | Carroll County    | 11.000000   | 68.870000   | 0.000000      | 61.290000   | 315.150000    | 1928.000000  | 5.000000  |
+| AAAAAAAAKAIBAAAA  | United States  | IA        | Carroll County    | 42.000000   | 90.240000   | 0.000000      | 9.020000    | -2082.360000  | 1928.000000  | 5.000000  |
+| AAAAAAAAKLOCAAAA  | United States  | IA        | Carroll County    | 16.000000   | 228.460000  | 3.280000      | 2.280000    | -1496.240000  | 1928.000000  | 5.000000  |
+| AAAAAAAALJNBAAAA  | United States  | IA        | Carroll County    | 31.000000   | 28.680000   | 0.000000      | 13.470000   | 45.570000     | 1928.000000  | 5.000000  |
+| AAAAAAAAMBFEAAAA  | United States  | IA        | Carroll County    | 23.000000   | 151.930000  | 2207.690000   | 123.060000  | -965.690000   | 1928.000000  | 5.000000  |
+| AAAAAAAAPDOCAAAA  | United States  | IA        | Carroll County    | 19.000000   | 65.000000   | 0.000000      | 39.650000   | 199.500000    | 1928.000000  | 5.000000  |
+| AAAAAAAABLGBAAAA  | United States  | IA        | Chickasaw County  | 93.000000   | 30.870000   | 0.000000      | 25.620000   | 505.920000    | 1937.000000  | 1.000000  |
+| AAAAAAAABMPDAAAA  | United States  | IA        | Chickasaw County  | 40.000000   | 175.030000  | 0.000000      | 169.770000  | 3086.400000   | 1937.000000  | 1.000000  |
+| AAAAAAAAEIBAAAAA  | United States  | IA        | Chickasaw County  | 99.000000   | 140.370000  | 0.000000      | 133.350000  | 4177.800000   | 1937.000000  | 1.000000  |
+| AAAAAAAAGEFBAAAA  | United States  | IA        | Chickasaw County  | 27.000000   | 209.530000  | 0.000000      | 167.620000  | 2554.470000   | 1937.000000  | 1.000000  |
+| AAAAAAAAHHBEAAAA  | United States  | IA        | Chickasaw County  | 64.000000   | 206.490000  | 0.000000      | 16.510000   | -3838.080000  | 1937.000000  | 1.000000  |
+| AAAAAAAAICGBAAAA  | United States  | IA        | Chickasaw County  | 21.000000   | 154.820000  | 0.000000      | 153.270000  | 1525.230000   | 1937.000000  | 1.000000  |
+| AAAAAAAAIJPAAAAA  | United States  | IA        | Chickasaw County  | 62.000000   | 232.220000  | 0.000000      | 69.660000   | -750.820000   | 1937.000000  | 1.000000  |
+| AAAAAAAALGFDAAAA  | United States  | IA        | Chickasaw County  | 67.000000   | 103.290000  | 0.000000      | 85.730000   | 2248.520000   | 1937.000000  | 1.000000  |
+| AAAAAAAAMILDAAAA  | United States  | IA        | Chickasaw County  | 14.000000   | 106.180000  | 0.000000      | 78.570000   | 225.540000    | 1937.000000  | 1.000000  |
+| AAAAAAAAMKIBAAAA  | United States  | IA        | Chickasaw County  | 54.000000   | 84.140000   | 3100.680000   | 76.560000   | -1130.220000  | 1937.000000  | 1.000000  |
+| AAAAAAAANCJBAAAA  | United States  | IA        | Chickasaw County  | 72.000000   | 39.910000   | 0.000000      | 17.560000   | -1234.800000  | 1937.000000  | 1.000000  |
+| AAAAAAAANDECAAAA  | United States  | IA        | Chickasaw County  | 10.000000   | 116.280000  | 0.000000      | 83.720000   | 91.800000     | 1937.000000  | 1.000000  |
+| AAAAAAAANIOCAAAA  | United States  | IA        | Chickasaw County  | 45.000000   | 20.170000   | 60.350000     | 19.160000   | 455.350000    | 1937.000000  | 1.000000  |
+| AAAAAAAAPHCEAAAA  | United States  | IA        | Chickasaw County  | 4.000000    | 21.270000   | 0.000000      | 13.610000   | 17.120000     | 1937.000000  | 1.000000  |
+| AAAAAAAAGLIAAAAA  | United States  | IA        | Clay County       | 93.000000   | 138.760000  | 0.000000      | 41.620000   | -4908.540000  | 1944.000000  | 1.000000  |
+| AAAAAAAAHLDEAAAA  | United States  | IA        | Clay County       | 52.000000   | 116.460000  | 0.000000      | 85.010000   | -755.560000   | 1944.000000  | 1.000000  |
+| AAAAAAAAIALBAAAA  | United States  | IA        | Clay County       | 76.000000   | 129.600000  | 0.000000      | 73.870000   | -699.960000   | 1944.000000  | 1.000000  |
+| AAAAAAAAIHICAAAA  | United States  | IA        | Clay County       | 74.000000   | 126.150000  | 0.000000      | 58.020000   | -2832.720000  | 1944.000000  | 1.000000  |
+| AAAAAAAAJPABAAAA  | United States  | IA        | Clay County       | 99.000000   | 30.860000   | 0.000000      | 29.000000   | 538.560000    | 1944.000000  | 1.000000  |
+| AAAAAAAAKJGDAAAA  | United States  | IA        | Clay County       | 13.000000   | 110.860000  | 0.000000      | 53.210000   | -360.230000   | 1944.000000  | 1.000000  |
+| AAAAAAAALBNDAAAA  | United States  | IA        | Clay County       | 53.000000   | 78.670000   | 1547.900000   | 62.140000   | -288.620000   | 1944.000000  | 1.000000  |
+| AAAAAAAALKDBAAAA  | United States  | IA        | Clay County       | 36.000000   | 112.620000  | 1439.760000   | 41.660000   | -1927.560000  | 1944.000000  | 1.000000  |
+| AAAAAAAAOOHDAAAA  | United States  | IA        | Clay County       | 73.000000   | 14.080000   | 0.000000      | 12.390000   | 54.750000     | 1944.000000  | 1.000000  |
+| AAAAAAAADNLBAAAA  | United States  | IA        | Dickinson County  | 1.000000    | 208.760000  | 0.000000      | 75.150000   | -21.950000    | 1935.000000  | 1.000000  |
+| AAAAAAAAFJACAAAA  | United States  | IA        | Dickinson County  | 92.000000   | 42.260000   | 0.000000      | 34.650000   | 542.800000    | 1935.000000  | 1.000000  |
+| AAAAAAAAIAKCAAAA  | United States  | IA        | Dickinson County  | 29.000000   | 42.130000   | 0.000000      | 16.850000   | -709.340000   | 1935.000000  | 1.000000  |
+| AAAAAAAAILCCAAAA  | United States  | IA        | Dickinson County  | 77.000000   | 124.470000  | 0.000000      | 42.310000   | -3637.480000  | 1935.000000  | 1.000000  |
+| AAAAAAAAMNBCAAAA  | United States  | IA        | Dickinson County  | 46.000000   | 203.130000  | 0.000000      | 117.810000  | 1356.540000   | 1935.000000  | 1.000000  |
+| AAAAAAAAONMCAAAA  | United States  | IA        | Dickinson County  | 60.000000   | 135.220000  | 0.000000      | 82.480000   | -846.600000   | 1935.000000  | 1.000000  |
+| AAAAAAAAAABBAAAA  | United States  | IA        | Dubuque County    | 93.000000   | 199.120000  | 0.000000      | 93.580000   | -73.470000    | 1969.000000  | 4.000000  |
+| AAAAAAAAAIECAAAA  | United States  | IA        | Dubuque County    | 54.000000   | 112.810000  | 0.000000      | 100.400000  | 2449.980000   | 1969.000000  | 4.000000  |
+| AAAAAAAAAKNCAAAA  | United States  | IA        | Dubuque County    | 42.000000   | 64.010000   | 122.570000    | 36.480000   | 275.170000    | 1969.000000  | 4.000000  |
++-------------------+----------------+-----------+-------------------+-------------+-------------+---------------+-------------+---------------+--------------+-----------+

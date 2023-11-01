@@ -1,0 +1,27 @@
++-------------------+---------------------+
+|    customer_id    |    customername     |
++-------------------+---------------------+
+| AAAAAAAABNPKAAAA  | Napier, Tammy       |
+| AAAAAAAACJEIBAAA  | Forte, Peggy        |
+| AAAAAAAADGBABAAA  | Fultz,              |
+| AAAAAAAAENNFBAAA  | Willard, Charles    |
+| AAAAAAAAEPJNAAAA  | Davis, Diane        |
+| AAAAAAAAGPHHAAAA  | Montes, Victoria    |
+| AAAAAAAAHOFFBAAA  | Jameson, Thomas     |
+| AAAAAAAAHPIEBAAA  | Manley, Nicholas    |
+| AAAAAAAAIAOBBAAA  | Knapp, Spencer      |
+| AAAAAAAAIBFJAAAA  | Dodson, Gina        |
+| AAAAAAAAIFGJAAAA  | Thomson, Crystal    |
+| AAAAAAAAKCKDBAAA  | Correia, Ronald     |
+| AAAAAAAAKDLBBAAA  | Herring, Robert     |
+| AAAAAAAAKODJAAAA  | Hawkins, Jason      |
+| AAAAAAAAKPDIAAAA  | Tompkins, Julia     |
+| AAAAAAAAMFCCBAAA  | Peterson, Daisy     |
+| AAAAAAAAMPAJAAAA  | Walker,             |
+| AAAAAAAANBALAAAA  | Mcfall, Vernon      |
+| AAAAAAAAOECIBAAA  | Gonzalez, Robert    |
+| AAAAAAAAOFLHBAAA  | Wadsworth, Joslyn   |
+| AAAAAAAAOODBAAAA  | Shields, Frederick  |
+| AAAAAAAAOODBAAAA  | Shields, Frederick  |
+| AAAAAAAAPCLGBAAA  | Charles, Kate       |
++-------------------+---------------------+

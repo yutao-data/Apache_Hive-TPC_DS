@@ -1,0 +1,94 @@
++-----------------------+---------------------------------+----------------+----------+-------------+-------------+--------------+------------+
+|          _c0          |             sm_type             |    cc_name     | 30 days  | 31-60 days  | 61-90 days  | 91-120 days  | >120 days  |
++-----------------------+---------------------------------+----------------+----------+-------------+-------------+--------------+------------+
+|                       | EXPRESS                         | Mid Atlantic   | 1270     | 1294        | 1245        | 0            | 0          |
+|                       | EXPRESS                         | NY Metro       | 1234     | 1349        | 1326        | 0            | 0          |
+|                       | EXPRESS                         | North Midwest  | 1209     | 1317        | 1243        | 0            | 0          |
+|                       | LIBRARY                         | Mid Atlantic   | 885      | 958         | 938         | 0            | 0          |
+|                       | LIBRARY                         | NY Metro       | 921      | 989         | 1018        | 0            | 0          |
+|                       | LIBRARY                         | North Midwest  | 949      | 972         | 967         | 0            | 0          |
+|                       | NEXT DAY                        | Mid Atlantic   | 1301     | 1236        | 1218        | 0            | 0          |
+|                       | NEXT DAY                        | NY Metro       | 1284     | 1316        | 1310        | 0            | 0          |
+|                       | NEXT DAY                        | North Midwest  | 1215     | 1282        | 1277        | 0            | 0          |
+|                       | OVERNIGHT                       | Mid Atlantic   | 909      | 1036        | 942         | 0            | 0          |
+|                       | OVERNIGHT                       | NY Metro       | 936      | 972         | 970         | 0            | 0          |
+|                       | OVERNIGHT                       | North Midwest  | 924      | 990         | 986         | 0            | 0          |
+|                       | REGULAR                         | Mid Atlantic   | 872      | 954         | 925         | 0            | 0          |
+|                       | REGULAR                         | NY Metro       | 963      | 979         | 955         | 0            | 0          |
+|                       | REGULAR                         | North Midwest  | 986      | 946         | 985         | 0            | 0          |
+|                       | TWO DAY                         | Mid Atlantic   | 912      | 946         | 969         | 0            | 0          |
+|                       | TWO DAY                         | NY Metro       | 901      | 981         | 1039        | 0            | 0          |
+|                       | TWO DAY                         | North Midwest  | 921      | 997         | 972         | 0            | 0          |
+| Bad cards must make.  | EXPRESS                         | Mid Atlantic   | 1208     | 1247        | 1223        | 0            | 0          |
+| Bad cards must make.  | EXPRESS                         | NY Metro       | 1213     | 1359        | 1332        | 0            | 0          |
+| Bad cards must make.  | EXPRESS                         | North Midwest  | 1271     | 1242        | 1286        | 0            | 0          |
+| Bad cards must make.  | LIBRARY                         | Mid Atlantic   | 899      | 926         | 968         | 0            | 0          |
+| Bad cards must make.  | LIBRARY                         | NY Metro       | 937      | 993         | 972         | 0            | 0          |
+| Bad cards must make.  | LIBRARY                         | North Midwest  | 903      | 993         | 1017        | 0            | 0          |
+| Bad cards must make.  | NEXT DAY                        | Mid Atlantic   | 1192     | 1259        | 1243        | 0            | 0          |
+| Bad cards must make.  | NEXT DAY                        | NY Metro       | 1260     | 1293        | 1237        | 0            | 0          |
+| Bad cards must make.  | NEXT DAY                        | North Midwest  | 1200     | 1273        | 1219        | 0            | 0          |
+| Bad cards must make.  | OVERNIGHT                       | Mid Atlantic   | 955      | 977         | 983         | 0            | 0          |
+| Bad cards must make.  | OVERNIGHT                       | NY Metro       | 890      | 966         | 966         | 0            | 0          |
+| Bad cards must make.  | OVERNIGHT                       | North Midwest  | 897      | 983         | 925         | 0            | 0          |
+| Bad cards must make.  | REGULAR                         | Mid Atlantic   | 953      | 902         | 880         | 0            | 0          |
+| Bad cards must make.  | REGULAR                         | NY Metro       | 981      | 977         | 968         | 0            | 0          |
+| Bad cards must make.  | REGULAR                         | North Midwest  | 925      | 921         | 998         | 0            | 0          |
+| Bad cards must make.  | TWO DAY                         | Mid Atlantic   | 896      | 926         | 917         | 0            | 0          |
+| Bad cards must make.  | TWO DAY                         | NY Metro       | 928      | 994         | 930         | 0            | 0          |
+| Bad cards must make.  | TWO DAY                         | North Midwest  | 957      | 996         | 967         | 0            | 0          |
+| Conventional childr   | EXPRESS                         | Mid Atlantic   | 1273     | 1273        | 1278        | 0            | 0          |
+| Conventional childr   | EXPRESS                         | NY Metro       | 1252     | 1313        | 1327        | 0            | 0          |
+| Conventional childr   | EXPRESS                         | North Midwest  | 1223     | 1240        | 1237        | 0            | 0          |
+| Conventional childr   | LIBRARY                         | Mid Atlantic   | 918      | 960         | 916         | 0            | 0          |
+| Conventional childr   | LIBRARY                         | NY Metro       | 948      | 894         | 952         | 0            | 0          |
+| Conventional childr   | LIBRARY                         | North Midwest  | 910      | 983         | 928         | 0            | 0          |
+| Conventional childr   | NEXT DAY                        | Mid Atlantic   | 1183     | 1295        | 1288        | 0            | 0          |
+| Conventional childr   | NEXT DAY                        | NY Metro       | 1226     | 1240        | 1306        | 0            | 0          |
+| Conventional childr   | NEXT DAY                        | North Midwest  | 1173     | 1280        | 1300        | 0            | 0          |
+| Conventional childr   | OVERNIGHT                       | Mid Atlantic   | 906      | 990         | 1012        | 0            | 0          |
+| Conventional childr   | OVERNIGHT                       | NY Metro       | 954      | 935         | 964         | 0            | 0          |
+| Conventional childr   | OVERNIGHT                       | North Midwest  | 941      | 1003        | 959         | 0            | 0          |
+| Conventional childr   | REGULAR                         | Mid Atlantic   | 948      | 1001        | 943         | 0            | 0          |
+| Conventional childr   | REGULAR                         | NY Metro       | 943      | 1035        | 1014        | 0            | 0          |
+| Conventional childr   | REGULAR                         | North Midwest  | 911      | 980         | 930         | 0            | 0          |
+| Conventional childr   | TWO DAY                         | Mid Atlantic   | 947      | 930         | 973         | 0            | 0          |
+| Conventional childr   | TWO DAY                         | NY Metro       | 941      | 992         | 985         | 0            | 0          |
+| Conventional childr   | TWO DAY                         | North Midwest  | 946      | 972         | 928         | 0            | 0          |
+| Doors canno           | EXPRESS                         | Mid Atlantic   | 1241     | 1260        | 1279        | 0            | 0          |
+| Doors canno           | EXPRESS                         | NY Metro       | 1225     | 1308        | 1307        | 0            | 0          |
+| Doors canno           | EXPRESS                         | North Midwest  | 1225     | 1308        | 1285        | 0            | 0          |
+| Doors canno           | LIBRARY                         | Mid Atlantic   | 899      | 939         | 1010        | 0            | 0          |
+| Doors canno           | LIBRARY                         | NY Metro       | 964      | 943         | 947         | 0            | 0          |
+| Doors canno           | LIBRARY                         | North Midwest  | 911      | 930         | 970         | 0            | 0          |
+| Doors canno           | NEXT DAY                        | Mid Atlantic   | 1310     | 1242        | 1269        | 0            | 0          |
+| Doors canno           | NEXT DAY                        | NY Metro       | 1304     | 1273        | 1237        | 0            | 0          |
+| Doors canno           | NEXT DAY                        | North Midwest  | 1243     | 1277        | 1273        | 0            | 0          |
+| Doors canno           | OVERNIGHT                       | Mid Atlantic   | 943      | 942         | 935         | 0            | 0          |
+| Doors canno           | OVERNIGHT                       | NY Metro       | 911      | 936         | 990         | 0            | 0          |
+| Doors canno           | OVERNIGHT                       | North Midwest  | 951      | 952         | 896         | 0            | 0          |
+| Doors canno           | REGULAR                         | Mid Atlantic   | 968      | 943         | 971         | 0            | 0          |
+| Doors canno           | REGULAR                         | NY Metro       | 964      | 985         | 951         | 0            | 0          |
+| Doors canno           | REGULAR                         | North Midwest  | 905      | 975         | 1013        | 0            | 0          |
+| Doors canno           | TWO DAY                         | Mid Atlantic   | 909      | 942         | 952         | 0            | 0          |
+| Doors canno           | TWO DAY                         | NY Metro       | 950      | 919         | 956         | 0            | 0          |
+| Doors canno           | TWO DAY                         | North Midwest  | 916      | 969         | 989         | 0            | 0          |
+| Important issues liv  | EXPRESS                         | Mid Atlantic   | 1265     | 1212        | 1285        | 0            | 0          |
+| Important issues liv  | EXPRESS                         | NY Metro       | 1279     | 1252        | 1315        | 0            | 0          |
+| Important issues liv  | EXPRESS                         | North Midwest  | 1220     | 1292        | 1260        | 0            | 0          |
+| Important issues liv  | LIBRARY                         | Mid Atlantic   | 890      | 909         | 934         | 0            | 0          |
+| Important issues liv  | LIBRARY                         | NY Metro       | 944      | 960         | 980         | 0            | 0          |
+| Important issues liv  | LIBRARY                         | North Midwest  | 942      | 916         | 959         | 0            | 0          |
+| Important issues liv  | NEXT DAY                        | Mid Atlantic   | 1296     | 1331        | 1315        | 0            | 0          |
+| Important issues liv  | NEXT DAY                        | NY Metro       | 1227     | 1321        | 1298        | 0            | 0          |
+| Important issues liv  | NEXT DAY                        | North Midwest  | 1235     | 1210        | 1272        | 0            | 0          |
+| Important issues liv  | OVERNIGHT                       | Mid Atlantic   | 880      | 946         | 999         | 0            | 0          |
+| Important issues liv  | OVERNIGHT                       | NY Metro       | 966      | 981         | 988         | 0            | 0          |
+| Important issues liv  | OVERNIGHT                       | North Midwest  | 922      | 991         | 916         | 0            | 0          |
+| Important issues liv  | REGULAR                         | Mid Atlantic   | 909      | 935         | 913         | 0            | 0          |
+| Important issues liv  | REGULAR                         | NY Metro       | 919      | 949         | 942         | 0            | 0          |
+| Important issues liv  | REGULAR                         | North Midwest  | 900      | 980         | 1058        | 0            | 0          |
+| Important issues liv  | TWO DAY                         | Mid Atlantic   | 911      | 920         | 985         | 0            | 0          |
+| Important issues liv  | TWO DAY                         | NY Metro       | 955      | 970         | 985         | 0            | 0          |
+| Important issues liv  | TWO DAY                         | North Midwest  | 930      | 948         | 1026        | 0            | 0          |
++-----------------------+---------------------------------+----------------+----------+-------------+-------------+--------------+------------+

@@ -1,0 +1,12 @@
++--------------------------+----------------------------------+---------------------------------+-----------------------------+
+| t_s_secyear.customer_id  | t_s_secyear.customer_first_name  | t_s_secyear.customer_last_name  | t_s_secyear.customer_login  |
++--------------------------+----------------------------------+---------------------------------+-----------------------------+
+| AAAAAAAABIJBAAAA         | James                            | White                           |                             |
+| AAAAAAAADIIOAAAA         | David                            | Carroll                         |                             |
+| AAAAAAAAIJCIBAAA         | Thomas                           | Oneal                           |                             |
+| AAAAAAAAKJBLAAAA         | Kerry                            | Davis                           |                             |
+| AAAAAAAAMFPFBAAA         | Jamie                            | Woods                           |                             |
+| AAAAAAAANJAMAAAA         | Thaddeus                         | Griffin                         |                             |
+| AAAAAAAANJOLAAAA         | Debra                            | Underwood                       |                             |
+| AAAAAAAAPEHEBAAA         | Edith                            | Molina                          |                             |
++--------------------------+----------------------------------+---------------------------------+-----------------------------+

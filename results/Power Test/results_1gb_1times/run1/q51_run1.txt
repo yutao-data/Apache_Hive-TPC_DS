@@ -1,0 +1,99 @@
++--------------------------+----------------------------------+---------------------------------+-------------------------------------+
+| t_s_secyear.customer_id  | t_s_secyear.customer_first_name  | t_s_secyear.customer_last_name  | t_s_secyear.customer_birth_country  |
++--------------------------+----------------------------------+---------------------------------+-------------------------------------+
+| AAAAAAAAAAABBAAA         | Donald                           | Brewer                          | THAILAND                            |
+| AAAAAAAAAAICBAAA         | Ronald                           | Mitchell                        | GUINEA                              |
+| AAAAAAAAAAJAAAAA         | Jason                            | Bullard                         | SAMOA                               |
+| AAAAAAAAACCJAAAA         | Benny                            | Negron                          | GIBRALTAR                           |
+| AAAAAAAAADFIBAAA         | Christopher                      | Bush                            | NEPAL                               |
+| AAAAAAAAAEDLAAAA         | Willie                           | Holmes                          | NETHERLANDS                         |
+| AAAAAAAAAKNFAAAA         | Lisa                             | Henry                           | BELIZE                              |
+| AAAAAAAAAMMCBAAA         | Aaron                            | Roberts                         | MAURITANIA                          |
+| AAAAAAAAANENAAAA         |                                  | Miller                          |                                     |
+| AAAAAAAAANKDAAAA         | John                             | Leach                           | NETHERLANDS                         |
+| AAAAAAAAAPBDBAAA         | Charles                          | Moreno                          | PARAGUAY                            |
+| AAAAAAAAAPJABAAA         | Graciela                         | Lessard                         | GIBRALTAR                           |
+| AAAAAAAABCBBAAAA         | Brenda                           | Sherry                          | SERBIA                              |
+| AAAAAAAABDOBAAAA         | Wilfred                          | Wood                            | HUNGARY                             |
+| AAAAAAAABMDCAAAA         | Sandra                           | Galloway                        | SAUDI ARABIA                        |
+| AAAAAAAACHJJAAAA         | Ruby                             | Parker                          | ZAMBIA                              |
+| AAAAAAAACPFIBAAA         | Alejandro                        | Grimes                          | AFGHANISTAN                         |
+| AAAAAAAADAPFBAAA         | Cruz                             | Curtis                          | SWEDEN                              |
+| AAAAAAAADDNCBAAA         |                                  | Williams                        |                                     |
+| AAAAAAAADHMBBAAA         | Christinia                       | Walker                          | TURKEY                              |
+| AAAAAAAADHNAAAAA         | Heather                          | Patrick                         | NEPAL                               |
+| AAAAAAAADIJNAAAA         | Scott                            | Wofford                         | MALI                                |
+| AAAAAAAADKJDAAAA         | Cheryl                           | Clark                           | ICELAND                             |
+| AAAAAAAADPJEAAAA         | Amy                              | Kish                            | EGYPT                               |
+| AAAAAAAAEDKBAAAA         | Joshua                           | Walters                         | KENYA                               |
+| AAAAAAAAEIIABAAA         | Leonard                          | Roberts                         | C�TE D'IVOIRE                       |
+| AAAAAAAAELAIAAAA         | Nicholas                         | Bourque                         | MALDIVES                            |
+| AAAAAAAAELIIAAAA         | Harold                           | Lee                             | BAHAMAS                             |
+| AAAAAAAAFAIHBAAA         | Everett                          | Tate                            | HONG KONG                           |
+| AAAAAAAAFAJDBAAA         | Geneva                           | Trapp                           | BHUTAN                              |
+| AAAAAAAAFDDEAAAA         | Betty                            | Hinson                          | GREECE                              |
+| AAAAAAAAFDJFAAAA         | John                             | Reese                           | ARUBA                               |
+| AAAAAAAAFEKGBAAA         | Janet                            | Loomis                          | DENMARK                             |
+| AAAAAAAAFFNEAAAA         | Kelsey                           | Knowles                         | BENIN                               |
+| AAAAAAAAFHNEBAAA         | Lorri                            | Mcknight                        | EGYPT                               |
+| AAAAAAAAFJIAAAAA         | Jeffrey                          | Bertram                         | SLOVAKIA                            |
+| AAAAAAAAFMFOAAAA         | Peggy                            | Stevens                         | ANGUILLA                            |
+| AAAAAAAAFNLKAAAA         |                                  | Rowell                          |                                     |
+| AAAAAAAAFPDBBAAA         | Maxwell                          | Wright                          | FRANCE                              |
+| AAAAAAAAFPJOAAAA         | Walter                           | Hansen                          | INDONESIA                           |
+| AAAAAAAAGCPPAAAA         | Fairy                            | Guidry                          | URUGUAY                             |
+| AAAAAAAAGECLAAAA         | Rodney                           | Seymore                         | EGYPT                               |
+| AAAAAAAAGFJNAAAA         | Nathan                           | Valles                          | NEW CALEDONIA                       |
+| AAAAAAAAGGGIAAAA         | Eva                              | Navarro                         | GUINEA                              |
+| AAAAAAAAGLJHBAAA         | Glenn                            | Horn                            | AZERBAIJAN                          |
+| AAAAAAAAGNHBBAAA         | William                          | Quinones                        | MAURITANIA                          |
+| AAAAAAAAGOPPAAAA         | Corey                            | Santiago                        | ZIMBABWE                            |
+| AAAAAAAAHAKCAAAA         | Lisa                             | Cook                            |                                     |
+| AAAAAAAAHBCBBAAA         | Eddie                            | Valdez                          | LITHUANIA                           |
+| AAAAAAAAHDLHBAAA         | Andrew                           | Price                           | MAURITIUS                           |
+| AAAAAAAAHEDOAAAA         | Chandra                          | Ramirez                         | R�UNION                             |
+| AAAAAAAAHEJFBAAA         | Valerie                          | Thomas                          | ARGENTINA                           |
+| AAAAAAAAHFLCBAAA         | Helen                            |                                 | FAROE ISLANDS                       |
+| AAAAAAAAHHCHBAAA         | Alex                             | Black                           | CAMEROON                            |
+| AAAAAAAAHKFABAAA         | Derek                            | Ladd                            | SERBIA                              |
+| AAAAAAAAHMHDAAAA         | Arcelia                          | Jackson                         | LIECHTENSTEIN                       |
+| AAAAAAAAHOHCAAAA         | Christopher                      | Perez                           | JERSEY                              |
+| AAAAAAAAIEHFBAAA         | Meghan                           | Mack                            | EGYPT                               |
+| AAAAAAAAILLFAAAA         | Jennifer                         | Hernandez                       | HONDURAS                            |
+| AAAAAAAAIOOEAAAA         | James                            | Starr                           | YEMEN                               |
+| AAAAAAAAJAGEBAAA         | Christine                        | Mcgee                           | ANDORRA                             |
+| AAAAAAAAJCMMAAAA         | David                            | Robb                            | ARGENTINA                           |
+| AAAAAAAAJOAIAAAA         | Donna                            | Lawson                          | KENYA                               |
+| AAAAAAAAKAGNAAAA         | Teresa                           | James                           | TOGO                                |
+| AAAAAAAAKANOAAAA         | Samantha                         | Sherman                         | CAMBODIA                            |
+| AAAAAAAAKDAEBAAA         | Dean                             | Taggart                         | VENEZUELA                           |
+| AAAAAAAAKGINAAAA         | Vincent                          | Darling                         | ESTONIA                             |
+| AAAAAAAALAJDAAAA         | Sheila                           | Jones                           | KYRGYZSTAN                          |
+| AAAAAAAALFIGBAAA         | John                             | Chang                           | UZBEKISTAN                          |
+| AAAAAAAALLACBAAA         | Agnes                            | Simons                          | PAKISTAN                            |
+| AAAAAAAALNDLAAAA         | Isaac                            | Haley                           | BELARUS                             |
+| AAAAAAAAMBCBAAAA         | Cynthia                          | Champion                        | MONTENEGRO                          |
+| AAAAAAAAMDGGBAAA         | Ronald                           | Fortner                         | NETHERLANDS ANTILLES                |
+| AAAAAAAAMHAEBAAA         | Barbara                          | Rose                            | NORFOLK ISLAND                      |
+| AAAAAAAAMHBEAAAA         | Al                               | Doyle                           | AUSTRALIA                           |
+| AAAAAAAAMKBCBAAA         | Martin                           | Benedict                        | BARBADOS                            |
+| AAAAAAAAMNDFAAAA         | Justin                           | Harding                         | NIUE                                |
+| AAAAAAAANDKGAAAA         | Sarah                            | Bernier                         | KAZAKHSTAN                          |
+| AAAAAAAANJJKAAAA         | Peter                            | Peterson                        | GUADELOUPE                          |
+| AAAAAAAANPMBAAAA         | Silvia                           |                                 |                                     |
+| AAAAAAAAODLBAAAA         | Jennifer                         | Allen                           | ZIMBABWE                            |
+| AAAAAAAAOEJABAAA         | Erika                            | Winston                         | GRENADA                             |
+| AAAAAAAAOHBPAAAA         | Anna                             | Frantz                          | JORDAN                              |
+| AAAAAAAAOHKABAAA         | Audrey                           | Wallace                         | FIJI                                |
+| AAAAAAAAOMPHBAAA         | Kathryn                          | Thomas                          | LEBANON                             |
+| AAAAAAAAOPKAAAAA         | Michelle                         | Scott                           | MOROCCO                             |
+| AAAAAAAAOPPNAAAA         | Al                               | Cooper                          | KAZAKHSTAN                          |
+| AAAAAAAAPBGHBAAA         | Jonathan                         | Gill                            | FIJI                                |
+| AAAAAAAAPDOMAAAA         | Elvin                            | Brown                           | ECUADOR                             |
+| AAAAAAAAPEEDAAAA         | Lori                             | Hicks                           | C�TE D'IVOIRE                       |
+| AAAAAAAAPENLAAAA         | Donald                           | Silver                          | CAMEROON                            |
+| AAAAAAAAPGIDBAAA         | Delores                          | Hatcher                         | ISRAEL                              |
+| AAAAAAAAPHBNAAAA         |                                  | Hays                            |                                     |
+| AAAAAAAAPLNNAAAA         | Michael                          | Burton                          | GUINEA-BISSAU                       |
+| AAAAAAAAPONIAAAA         | Phyllis                          | Davis                           | DJIBOUTI                            |
++--------------------------+----------------------------------+---------------------------------+-------------------------------------+

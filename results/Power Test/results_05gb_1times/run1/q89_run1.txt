@@ -1,0 +1,98 @@
++---------------------------------+-----------------------+---------+-------------------+----------+------------+
+|           c_last_name           |     c_first_name      |   _c2   | ss_ticket_number  |   amt    |   profit   |
++---------------------------------+-----------------------+---------+-------------------+----------+------------+
+|                                 |                       | Midway  | 2187              | 343.15   | -10013.44  |
+|                                 |                       | Midway  | 32038             | 1342.22  | -9752.15   |
+|                                 |                       | Midway  | 45176             | 132.65   | -2570.06   |
+|                                 |                       | Midway  | 45176             | NULL     | NULL       |
+|                                 | Richard               | Midway  | 12269             | 1221.50  | -8096.47   |
+|                                 | Sarah                 | Midway  | 16222             | 4038.52  | -11921.73  |
+|                                 | Sonia                 | Midway  | 58066             | 308.98   | -14610.41  |
+|                                 | Yvonne                | Midway  | 111857            | 1443.39  | -10108.59  |
+| Alfaro                          | David                 | Midway  | 89370             | 562.63   | -9474.68   |
+| Alfaro                          | David                 | Midway  | 89370             | NULL     | NULL       |
+| Anderson                        | Rhonda                | Midway  | 107747            | 0.00     | -12644.02  |
+| Barbee                          | David                 | Midway  | 37087             | 632.02   | -8550.29   |
+| Barnett                         | Sandra                | Midway  | 86463             | 2303.41  | -10397.31  |
+| Barnett                         | Thomas                | Midway  | 86194             | 1065.98  | -5903.18   |
+| Bauer                           |                       | Midway  | 73095             | 5318.94  | -30216.01  |
+| Bourgeois                       | Joyce                 | Midway  | 55157             | 387.63   | -5467.26   |
+| Branch                          | Sandra                | Midway  | 5755              | 202.49   | -2455.43   |
+| Brown                           | Robert                | Midway  | 80024             | 4590.75  | -4800.28   |
+| Burger                          | Greg                  | Midway  | 63938             | 2448.81  | -4894.03   |
+| Byrd                            | Bryan                 | Midway  | 69773             | 2203.24  | -4228.22   |
+| Carrasco                        | John                  | Midway  | 5790              | 0.00     | -1292.46   |
+| Caruso                          | Delores               | Midway  | 60848             | 3088.13  | -14189.66  |
+| Chapman                         | Grace                 | Midway  | 45770             | 2283.89  | -10929.62  |
+| Clemons                         | Vivian                | Midway  | 48085             | 1636.60  | -10894.74  |
+| Cochran                         | Joseph                | Midway  | 98335             | 359.44   | -4405.96   |
+| Cooper                          | Thomas                | Midway  | 76159             | 0.00     | -144.03    |
+| Crane                           | Jim                   | Midway  | 7217              | 0.00     | -11974.99  |
+| Crawford                        | James                 | Midway  | 115089            | 72.27    | -18251.56  |
+| Dominguez                       | Felix                 | Midway  | 115728            | 229.24   | -9143.64   |
+| Dunning                         | Kathleen              | Midway  | 5960              | 0.00     | -7670.13   |
+| Edwards                         | Clyde                 | Midway  | 54088             | 32.17    | -3596.65   |
+| Evans                           | Judith                | Midway  | 86040             | 115.68   | -13135.38  |
+| Fort                            | Lucy                  | Midway  | 110952            | 747.94   | -12564.39  |
+| Fournier                        | Wanda                 | Midway  | 76377             | 1150.01  | -3041.16   |
+| Frazer                          | Megan                 | Midway  | 81680             | 2671.35  | -10122.91  |
+| Gainey                          | Michelle              | Midway  | 69028             | 1275.59  | -3648.38   |
+| Garcia                          | Rebecca               | Midway  | 46767             | 0.00     | -13632.46  |
+| Garnett                         | Maurice               | Midway  | 47202             | 4046.45  | -917.83    |
+| Griggs                          | Nancy                 | Midway  | 59911             | 870.01   | -5927.63   |
+| Hackett                         | Marsha                | Midway  | 18795             | 2964.70  | -4243.90   |
+| Haight                          | Bernice               | Midway  | 71831             | 1422.03  | -5155.68   |
+| Hanson                          | Sara                  | Midway  | 83597             | 49.81    | -3499.42   |
+| Harden                          | Mack                  | Midway  | 86137             | 720.54   | -7527.34   |
+| Harden                          | Stephanie             | Midway  | 49662             | 2193.57  | -12780.81  |
+| Hernandez                       | Gary                  | Midway  | 15211             | 2647.93  | -8342.99   |
+| Hoffman                         | Ruth                  | Midway  | 44169             | 0.00     | 1210.53    |
+| Hudson                          | Mildred               | Midway  | 72030             | 3536.22  | -12996.18  |
+| Hurst                           | Rebecca               | Midway  | 109014            | 3193.50  | -6091.76   |
+| Jenkins                         | Frank                 | Midway  | 88204             | 2142.09  | -8292.59   |
+| Jenkins                         | Harry                 | Midway  | 83767             | 6166.35  | -5782.52   |
+| Kaplan                          | Florence              | Midway  | 42396             | 458.47   | -7501.84   |
+| Katz                            | Joshua                | Midway  | 106351            | 3393.30  | -8559.63   |
+| Kozlowski                       | Eric                  | Midway  | 105889            | 1655.31  | 2595.99    |
+| Lehmann                         | Antoine               | Midway  | 7630              | 8594.66  | -16028.38  |
+| Lewis                           | Julie                 | Midway  | 62537             | 1008.07  | -9578.17   |
+| Lopez                           | Kevin                 | Midway  | 41575             | 1158.33  | -13369.09  |
+| Lynch                           | Nicholas              | Midway  | 37134             | 2190.02  | -9519.76   |
+| Maes                            | Michele               | Midway  | 81887             | 1894.21  | -8228.02   |
+| Martin                          | Russell               | Midway  | 49464             | 3210.14  | -20405.39  |
+| Matthews                        | Dianne                | Midway  | 85498             | 108.21   | -999.35    |
+| Mcintire                        | Alta                  | Midway  | 18497             | 976.05   | -6805.58   |
+| Mcmillan                        | Donna                 | Midway  | 9864              | 2605.06  | -6178.49   |
+| Mendoza                         | Gerald                | Midway  | 13815             | 1330.03  | -9732.23   |
+| Miles                           | Caroline              | Midway  | 51101             | 870.90   | -6531.32   |
+| Moore                           | Don                   | Midway  | 6579              | 56.57    | -5574.03   |
+| Murphy                          | Joann                 | Midway  | 18539             | 939.25   | -13579.80  |
+| Numbers                         | Michael               | Midway  | 112638            | 1736.90  | 1758.46    |
+| Ortiz                           | Darren                | Midway  | 118214            | 1639.40  | -16330.85  |
+| Parham                          | Shad                  | Midway  | 17192             | 5945.56  | -10613.42  |
+| Parker                          | Angelo                | Midway  | 15466             | 0.00     | 140.63     |
+| Patton                          | David                 | Midway  | 43489             | 8484.23  | -11165.38  |
+| Phillips                        |                       | Midway  | 3969              | 2341.43  | -8889.88   |
+| Phillips                        | Bernard               | Midway  | 118               | 2275.78  | -19234.69  |
+| Phillips                        | Joshua                | Midway  | 82492             | 0.00     | -2621.72   |
+| Pierce                          | Jonathon              | Midway  | 71254             | 578.67   | -4875.51   |
+| Rivera                          | Gary                  | Midway  | 24449             | 5016.92  | -25125.65  |
+| Rivera                          | Lloyd                 | Midway  | 73990             | 7791.50  | -8648.04   |
+| Rogers                          | Robert                | Midway  | 64771             | 0.00     | -5146.03   |
+| Sanford                         | Elizabeth             | Midway  | 52452             | 606.21   | -4687.47   |
+| Scott                           | Darren                | Midway  | 23358             | 7840.10  | -9924.24   |
+| Scott                           | Darren                | Midway  | 23358             | NULL     | NULL       |
+| Snell                           | Lisa                  | Midway  | 29770             | 708.44   | 1397.11    |
+| Stover                          | Hector                | Midway  | 106303            | 4953.45  | -3629.62   |
+| Thomas                          | Elsa                  | Midway  | 37476             | 830.77   | -6425.80   |
+| Thompson                        | Frank                 | Midway  | 72107             | 0.00     | -5829.92   |
+| Torres                          |                       | Midway  | 2636              | 129.32   | -7842.65   |
+| Torres                          | Howard                | Midway  | 54956             | 0.00     | -7142.45   |
+| Tripp                           | Max                   | Midway  | 28135             | 731.31   | -6236.67   |
+| Trotter                         | Nidia                 | Midway  | 82961             | 547.45   | -9438.91   |
+| Viera                           | Naomi                 | Midway  | 31151             | 4164.58  | -17763.95  |
+| Williams                        | Tony                  | Midway  | 104644            | 406.29   | -7210.26   |
+| Wood                            | Latonya               | Midway  | 93346             | 415.20   | 2282.30    |
+| York                            | Anthony               | Midway  | 103715            | 390.00   | -9405.45   |
+| York                            | Gloria                | Midway  | 43895             | 554.87   | -5151.70   |
++---------------------------------+-----------------------+---------+-------------------+----------+------------+

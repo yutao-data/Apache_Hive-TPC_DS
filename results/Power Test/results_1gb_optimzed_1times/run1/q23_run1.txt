@@ -1,0 +1,104 @@
++---------------------------------+-----------------------+-----------------+----------------+-------------------+-----------+------------+
+|           c_last_name           |     c_first_name      |     ca_city     |  bought_city   | ss_ticket_number  |    amt    |   profit   |
++---------------------------------+-----------------------+-----------------+----------------+-------------------+-----------+------------+
+|                                 |                       |                 | Pine Grove     | 107222            | 1364.04   | -9600.36   |
+|                                 |                       | Bridgeport      | Fairfield      | 58614             | 3100.91   | -19142.60  |
+|                                 |                       | Buena Vista     | Antioch        | 213714            | 187.08    | -11222.74  |
+|                                 |                       | Centerville     | Summit         | 190068            | 258.33    | -6666.35   |
+|                                 |                       | Enterprise      | Rossville      | 152375            | 981.67    | -7112.37   |
+|                                 |                       | Five Points     | Plainview      | 172362            | 1190.86   | -9446.16   |
+|                                 |                       | Georgetown      | Red Hill       | 234956            | 50.90     | -12681.22  |
+|                                 |                       | Greenville      | Five Points    | 166356            | 2307.98   | 2876.06    |
+|                                 |                       | Greenville      | Unionville     | 9584              | 0.00      | -2219.46   |
+|                                 |                       | Hamilton        | Antioch        | 192426            | 2659.55   | -21623.86  |
+|                                 |                       | Hillcrest       | Forest Hills   | 126859            | 687.50    | -1200.26   |
+|                                 |                       | Lakewood        | Belmont        | 220564            | 6177.14   | -12804.12  |
+|                                 |                       | Lebanon         | Lincoln        | 151968            | 749.68    | -15367.43  |
+|                                 |                       | Leon            | Farmington     | 163548            | 7785.36   | -8244.47   |
+|                                 |                       | Mount Zion      | Page           | 225755            | 0.00      | -88.09     |
+|                                 |                       | Mount Zion      | White Oak      | 179713            | 0.00      | -3006.53   |
+|                                 |                       | Oak Ridge       | Mount Vernon   | 5492              | 904.95    | -16124.25  |
+|                                 |                       | Oakdale         | Valley View    | 207051            | 6344.46   | -11181.30  |
+|                                 |                       | Pleasant Grove  | Fairview       | 206428            | 0.00      | -18367.63  |
+|                                 |                       | Saint Johns     | Pine Valley    | 140417            | 247.48    | -8744.55   |
+|                                 |                       | Shady Grove     | Lakeview       | 136675            | 8253.84   | -9233.15   |
+|                                 |                       | Shady Grove     | Newtown        | 10541             | 29.10     | -2007.97   |
+|                                 |                       | Shady Grove     | Pine Grove     | 198896            | 4144.65   | -11034.67  |
+|                                 |                       | Shiloh          | Riverview      | 196272            | 1823.69   | -5137.17   |
+|                                 |                       | Shiloh          | Wilson         | 180183            | 5148.16   | -15340.25  |
+|                                 |                       | Silver Creek    | Dewey          | 208755            | 2023.05   | -10576.01  |
+|                                 |                       | Spring Hill     | White Oak      | 87790             | 4543.24   | -15009.46  |
+|                                 |                       | Star            | San Jose       | 7678              | 0.00      | -7962.30   |
+|                                 |                       | Stringtown      |                | 74970             | 1618.51   | -446.95    |
+|                                 |                       | Union Hill      | Five Forks     | 238305            | 2154.71   | -2756.32   |
+|                                 |                       | Waterloo        | Marion         | 34552             | 3105.05   | -7052.90   |
+|                                 |                       | Waterloo        | Mount Olive    | 105578            | 532.48    | 1765.12    |
+|                                 |                       | White Oak       | Newtown        | 152248            | 2979.11   | -6170.61   |
+|                                 |                       | Woodlawn        | Bunker Hill    | 48456             | 0.00      | -5407.24   |
+|                                 |                       | Woodlawn        | Plainview      | 221512            | 0.00      | 855.92     |
+|                                 | Barbara               | Five Forks      | Marion         | 233592            | 0.00      | -6049.15   |
+|                                 | Barbara               | Franklin        | Hillcrest      | 104239            | 189.85    | -13765.72  |
+|                                 | Beverly               | Jackson         | Pleasant Hill  | 51207             | 4718.21   | -20853.98  |
+|                                 | Brandon               | Union Hill      | Stringtown     | 128415            | 110.05    | -11194.29  |
+|                                 | Daniel                | Roy             | Mount Vernon   | 2364              | 4581.22   | -14680.38  |
+|                                 | Douglas               | Lakeside        | White Oak      | 222350            | 2224.47   | -6509.40   |
+|                                 | Emiko                 | Liberty         | Summit         | 84089             | 5741.65   | -17673.90  |
+|                                 | James                 | Lebanon         | Kingston       | 224691            | 164.00    | -19425.45  |
+|                                 | James                 | Marion          | California     | 40983             | 2287.53   | -13101.62  |
+|                                 | James                 | Springfield     | Fairfield      | 105581            | 554.22    | -10677.46  |
+|                                 | Jann                  | Woodville       | Enterprise     | 28289             | 7961.31   | -11298.58  |
+|                                 | Jeffery               | Friendship      | Avery          | 87167             | 0.00      | -1320.25   |
+|                                 | Jennifer              | Berea           | Edgewood       | 14595             | 663.15    | -137.08    |
+|                                 | Jose                  | Sunnyside       | White Oak      | 181007            | 6978.66   | -12411.28  |
+|                                 | Joshua                | Pleasant Grove  | Woodlawn       | 108357            | 2509.28   | -16268.28  |
+|                                 | Michael               | Nebo            | Brownsville    | 61199             | 1082.71   | -7392.22   |
+|                                 | Peter                 | Pine Grove      | Spring Hill    | 71903             | 2411.70   | -27158.53  |
+|                                 | Rebecca               | Greenfield      | Glendale       | 111374            | 110.56    | 4453.10    |
+|                                 | Rosemary              | Buena Vista     | Five Points    | 67394             | 1458.76   | -5923.92   |
+|                                 | Scott                 | Highland        | Hamilton       | 108358            | 3746.80   | -7402.34   |
+|                                 | Selma                 | Five Points     | Oakwood        | 25413             | 7986.43   | -2753.01   |
+|                                 | Timothy               | Jamestown       | Fairfield      | 129237            | 1865.11   | -5254.15   |
+|                                 | William               | Summerfield     | Littleton      | 81044             | 4468.07   | -19531.54  |
+| Adams                           | Gary                  |                 | Springfield    | 197536            | 1853.65   | -3899.70   |
+| Adams                           | Joe                   | Friendship      | Edgewood       | 111316            | 142.34    | -631.78    |
+| Adams                           | Ryan                  | Ashland         | Mount Zion     | 101959            | 2920.46   | -16839.48  |
+| Ahrens                          | Christine             | Hamilton        | Plainview      | 147971            | 5251.33   | -9526.47   |
+| Akers                           | Meagan                | Lebanon         | Brownsville    | 160011            | 2075.02   | -8578.54   |
+| Akin                            | Sharon                | Harmony         | Edgewood       | 201392            | 2962.97   | -14053.85  |
+| Alexander                       | Brenda                | Franklin        | Florence       | 33697             | 2946.38   | -2698.36   |
+| Alexander                       | James                 | Maple Grove     | Franklin       | 213868            | 1734.99   | -12834.97  |
+| Alfred                          | Howard                | Midway          | Red Hill       | 74752             | 2446.22   | -17466.94  |
+| Ali                             | Jennifer              | Lake Forest     | Oak Ridge      | 72238             | 0.00      | -5784.58   |
+| Allen                           | Annie                 | Lakeside        | Five Points    | 150273            | 126.90    | -2643.31   |
+| Allen                           | Bong                  | Concord         | Arlington      | 147911            | 5792.64   | -11542.07  |
+| Allen                           | Cindy                 | Harmony         | Lakeview       | 72354             | 1301.50   | -13272.24  |
+| Allen                           | Dorothy               | Shiloh          | Providence     | 77947             | 0.00      | -7643.56   |
+| Allen                           | Floyd                 | Greenwood       | Friendship     | 3011              | 3747.66   | -7366.03   |
+| Allen                           | Jacqueline            | Wilson          | Glendale       | 237847            | 1386.96   | -5001.23   |
+| Allman                          | Lloyd                 | Mount Pleasant  | Woodland       | 68608             | 2020.89   | -5574.43   |
+| Allred                          | Deborah               | Green Acres     | Providence     | 208397            | 7926.58   | -8436.29   |
+| Alvarado                        | Annie                 | Clifton         | Lakeview       | 19320             | 879.41    | -4912.30   |
+| Alvarado                        | Larry                 | Green Acres     | Shiloh         | 125204            | 1314.75   | -4415.91   |
+| Alvarez                         | Kenneth               | Shady Grove     | Woodville      | 59985             | 0.00      | -5303.54   |
+| Alvarez                         | Wendy                 | Cedar Grove     | Midway         | 155491            | 1059.53   | -14301.84  |
+| Amaral                          | Eric                  | Greenwood       | Bethel         | 112394            | 864.39    | 933.24     |
+| Amato                           | Nelson                | Brownsville     | Franklin       | 84401             | 1022.56   | -19484.08  |
+| Ambrose                         | Cassandra             | Providence      | Oakland        | 165395            | 17.27     | -7123.85   |
+| Andersen                        | Sara                  | Spring Valley   | Red Hill       | 41569             | 647.23    | -7948.24   |
+| Anderson                        | Charles               | Kingston        | Greenfield     | 187571            | 7.32      | 6007.01    |
+| Anderson                        | Filomena              | Maple Grove     | Lakeside       | 236266            | 3019.55   | -14672.20  |
+| Anderson                        | Glenn                 | Ashland         | Hopewell       | 238907            | 1149.95   | -7975.58   |
+| Anderson                        | Hattie                | Florence        | Springdale     | 103122            | 11516.51  | -22250.25  |
+| Anderson                        | Jose                  | Paxton          | Lakewood       | 237198            | 845.91    | 4958.36    |
+| Anderson                        | Robert                | Woodland        | Five Points    | 13536             | 3623.07   | -10870.83  |
+| Andrade                         | Frida                 | Mount Zion      | Edgewood       | 205106            | 748.94    | -11247.63  |
+| Andrade                         | Troy                  | Five Forks      | Cedar Grove    | 29798             | 14903.21  | -19195.43  |
+| Andrews                         | Debbie                | Liberty         | Riverdale      | 207447            | 2094.30   | -15011.25  |
+| Andrews                         | Gregory               | Salem           | Glenwood       | 79659             | 3153.45   | -7431.14   |
+| Andrews                         | Lisa                  | Mount Zion      | Summit         | 141490            | 1733.42   | -6118.42   |
+| Archer                          | Clarence              | Spring Valley   | Shiloh         | 232               | 933.50    | -7838.93   |
+| Arellano                        | Young                 | Mount Pleasant  | Shiloh         | 26478             | 1624.51   | -15678.68  |
+| Armijo                          | John                  | Buena Vista     | Waterloo       | 56191             | 998.04    | -11101.49  |
+| Arnold                          | Jacque                | Arlington       | Glenwood       | 79002             | 1893.57   | -12617.70  |
+| Arnold                          | Rosa                  | Highland Park   | Shady Grove    | 153133            | 12.90     | -13037.13  |
++---------------------------------+-----------------------+-----------------+----------------+-------------------+-----------+------------+
